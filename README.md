@@ -1,3 +1,6 @@
+This script auto-defaults to port 53 and uses dig to get your IP more reliably.
+
+
 # wireguard-install
 
 [WireGuard](https://www.wireguard.com) [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29) installer for Ubuntu 18.04 LTS, Debian 9 and CentOS 7.
